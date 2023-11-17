@@ -102,7 +102,7 @@ console.log(multiplicar(5,10));
 function ejecutarOperacion(num1, num2, funcion){
     return funcion(num1,num2);
 }
-console.log(ejecutarOperacion(5, 5, multiplicar));
+console.log(ejecutarOperacion(5, 5, multiplicar));  
 
 /* Kata: Explorando Scope en JavaScript */
 
